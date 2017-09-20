@@ -39,6 +39,9 @@
 <h2 id="ORDER-BY"><a href="#ORDER-BY" class="headerlink" title="ORDER BY"></a>ORDER BY</h2><p>ORDER BY在SQL十分好用。ORDER BY之后只要跟着排序依据的列。按照其排序的重要性依次往后递减。</p>
 <p>默认的输出顺序是按照它们insert的顺序排列。</p>
 <p>跟在某一个列的列名后面有可能是两个关键词：DESC（默认升序，ASC）或者 NULL FIRST（默认NULL LAST）</p>
+<p>注意:</p>
+<p>1) Can appear only once, at the end of he whole statement</p>
+<p>2) Accepts column names or aliases from the first SELECT statement, or the positional notation</p>
 <p>最普通的用法：</p>
 <figure class="highlight plain"><figcaption><span>lang: SQL</span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">SQL&gt; SELECT lastname, firstname, city, state 2 FROM customers</div><div class="line"> WHERE state = &apos;FL&apos; OR state = &apos;CA&apos;</div><div class="line"> ORDER BY state DESC, city;</div></pre></td></tr></table></figure>
 <p>根据SELECT后面的列的次序：</p>
