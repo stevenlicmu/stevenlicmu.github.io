@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://stevenlicmu.com/2017/09/20/SQL-Notes-Group-Functions/</loc>
+    
+    <lastmod>2017-09-21T01:52:20.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://stevenlicmu.com/2017/09/19/SQL-Notes-Set-Operations/</loc>
     
     <lastmod>2017-09-20T03:40:56.000Z</lastmod>
