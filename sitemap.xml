@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://stevenlicmu.com/2017/09/20/SQL-Notes-Group-Functions/</loc>
-    
-    <lastmod>2017-09-22T01:28:25.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://stevenlicmu.com/2017/09/21/SQL-Notes-Advance-Query/</loc>
     
-    <lastmod>2017-09-22T01:23:56.000Z</lastmod>
+    <lastmod>2017-09-22T01:34:51.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://stevenlicmu.com/2017/09/21/SQL-Notes-Single-row-functions/</loc>
     
-    <lastmod>2017-09-22T01:18:25.000Z</lastmod>
+    <lastmod>2017-09-22T01:34:41.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://stevenlicmu.com/2017/09/20/SQL-Notes-Group-Functions/</loc>
+    
+    <lastmod>2017-09-22T01:28:25.000Z</lastmod>
     
   </url>
   
