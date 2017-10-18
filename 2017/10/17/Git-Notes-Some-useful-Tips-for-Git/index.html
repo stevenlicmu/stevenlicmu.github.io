@@ -3,7 +3,7 @@
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">git commit --amend -m <span class="string">'new message'</span></div></pre></td></tr></table></figure>
 <p>However, if we want to amend not only for the most recent commit? We should use the git rebase command. </p>
 <p>For example, I have a git log like this:</p>
-<p><img src="./Git-Notes-Some-useful-Tips-for-Git/gitlog.png" width="300" height="200" alt="gitlog.png" align="center"></p>
+<p><img src="gitlog.png" width="300" height="200" alt="gitlog.png" align="center"></p>
 <p>Then I need to amend the message with hash begins with 6fb1458. I should use:</p>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">git rebase -i b11daec</div></pre></td></tr></table></figure>
 <p>By the way, git can use the first 7 bits hash to identify a commit. </p>
@@ -11,7 +11,7 @@
 <p>Then we need to use ‘…’ to represent the range:</p>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">git rebase -i b11daec...6fb1458</div></pre></td></tr></table></figure>
 <p>Following text interaction interface will appear after we type the rebase command:</p>
-<p><img src="./Git-Notes-Some-useful-Tips-for-Git/gitrebase.jpg" width="300" height="200" alt="gitrebase.jpg" align="center"></p>
+<p><img src="gitrebase.jpg" width="300" height="200" alt="gitrebase.jpg" align="center"></p>
 <p>As you can see, if we choose pick, we will keep the original one. Based on our need, we should choose ‘reword’ for 6fb1458. Also, if you want to merge a particular command, you should use ‘squash’. </p>
 <p>After you enter ‘:wq’ to save your setting. Git will prompt different windows to let you modify different commits base on your choices. </p>
 <h2 id="Scenario-II"><a href="#Scenario-II" class="headerlink" title="Scenario II"></a>Scenario II</h2><p>If there is a branch at the remote git, and you want to copy it to your computer. Also, you want to keep your copy related to the origin one. Then, you need to use:</p>
