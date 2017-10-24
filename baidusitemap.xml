@@ -4,6 +4,43 @@
 
     
   <url>
+    <loc>http://stevenlicmu.com/2017/10/23/Maven-Notes-Basic-Operations/</loc>
+    <lastmod>2017-10-24T02:28:11.000Z</lastmod>
+    <data>
+        <display>
+        <title>Maven Notes: Basic Operations</title>
+        <pubTime>2017-10-24T00:56:39.000Z</pubTime>
+        
+        <tag>Maven</tag>
+         
+         
+           
+             
+              <breadCrumb title="Technique" url="http://stevenlicmu.com/categories/Technique/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://stevenlicmu.com/2017/10/15/Talmud-Extract/</loc>
+    <lastmod>2017-10-24T00:58:22.000Z</lastmod>
+    <data>
+        <display>
+        <title>Talmud Extract</title>
+        <pubTime>2017-10-16T02:03:55.000Z</pubTime>
+        
+        <tag>Talmud</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://stevenlicmu.com/2017/10/17/Git-Notes-Some-useful-Tips-for-Git/</loc>
     <lastmod>2017-10-18T16:03:51.000Z</lastmod>
     <data>
@@ -18,23 +55,6 @@
              
               <breadCrumb title="Techniques" url="http://stevenlicmu.com/categories/Techniques/"/>
           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://stevenlicmu.com/2017/10/15/Talmud-Extract/</loc>
-    <lastmod>2017-10-18T15:51:12.000Z</lastmod>
-    <data>
-        <display>
-        <title>Talmud Extract</title>
-        <pubTime>2017-10-16T02:03:55.000Z</pubTime>
-        
-        <tag>Talmud</tag>
-         
-         
-           
         </display>
     </data>
     </url>
