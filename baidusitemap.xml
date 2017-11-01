@@ -4,6 +4,31 @@
 
     
   <url>
+    <loc>http://stevenlicmu.com/2017/10/31/OS-Notes-Multi-threads/</loc>
+    <lastmod>2017-11-01T01:12:04.000Z</lastmod>
+    <data>
+        <display>
+        <title>OS Notes: Multi-threads</title>
+        <pubTime>2017-11-01T01:06:02.000Z</pubTime>
+        
+        <tag>Thread</tag>
+         
+        <tag>Locks</tag>
+         
+         
+           
+             
+              <breadCrumb title="Operation System" url="http://stevenlicmu.com/categories/Operation-System/"/>
+          
+             
+              <breadCrumb title="Threads" url="http://stevenlicmu.com/categories/Operation-System/Threads/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://stevenlicmu.com/2017/10/17/Git-Notes-Some-useful-Tips-for-Git/</loc>
     <lastmod>2017-11-01T00:21:18.000Z</lastmod>
     <data>
