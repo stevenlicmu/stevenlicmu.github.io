@@ -4,14 +4,14 @@
 
     
   <url>
-    <loc>http://stevenlicmu.com/2017/10/23/Frontend-Notes-Playground/</loc>
-    <lastmod>2017-10-24T03:11:13.000Z</lastmod>
+    <loc>http://stevenlicmu.com/2017/10/30/Exception-Notes-How-to-use-Exception-wisely-in-Java/</loc>
+    <lastmod>2017-11-01T00:02:58.000Z</lastmod>
     <data>
         <display>
-        <title>Frontend Notes: Playground</title>
-        <pubTime>2017-10-24T02:32:08.000Z</pubTime>
+        <title>Exception Notes: How to use Exception wisely in Java</title>
+        <pubTime>2017-10-31T02:27:36.000Z</pubTime>
         
-        <tag>Frontends</tag>
+        <tag>Exception</tag>
          
          
            
@@ -25,13 +25,33 @@
     
   <url>
     <loc>http://stevenlicmu.com/2017/10/17/Git-Notes-Some-useful-Tips-for-Git/</loc>
-    <lastmod>2017-10-24T02:34:47.000Z</lastmod>
+    <lastmod>2017-11-01T00:02:58.000Z</lastmod>
     <data>
         <display>
         <title>Git Notes: Some useful Tips for Git</title>
         <pubTime>2017-10-18T03:00:51.000Z</pubTime>
         
         <tag>Git</tag>
+         
+         
+           
+             
+              <breadCrumb title="Technique" url="http://stevenlicmu.com/categories/Technique/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://stevenlicmu.com/2017/10/23/Frontend-Notes-Playground/</loc>
+    <lastmod>2017-10-24T03:11:13.000Z</lastmod>
+    <data>
+        <display>
+        <title>Frontend Notes: Playground</title>
+        <pubTime>2017-10-24T02:32:08.000Z</pubTime>
+        
+        <tag>Frontends</tag>
          
          
            
