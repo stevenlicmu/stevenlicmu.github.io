@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://stevenlicmu.com/2017/10/15/Talmud-Extract/</loc>
+    
+    <lastmod>2017-11-01T00:15:45.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://stevenlicmu.com/2017/10/30/Exception-Notes-How-to-use-Exception-wisely-in-Java/</loc>
     
     <lastmod>2017-11-01T00:02:58.000Z</lastmod>
@@ -26,13 +33,6 @@
     <loc>http://stevenlicmu.com/2017/10/23/Maven-Notes-Basic-Operations/</loc>
     
     <lastmod>2017-10-24T02:28:11.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://stevenlicmu.com/2017/10/15/Talmud-Extract/</loc>
-    
-    <lastmod>2017-10-24T00:58:22.000Z</lastmod>
     
   </url>
   
